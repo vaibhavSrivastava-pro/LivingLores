@@ -11,7 +11,7 @@ const AboutPage = () => {
           We give you a canvas where you can draw your thoughts, emotions and souls
         </h1>
         <p className={styles.desc}>
-          We provide you a platform where you can express yourself through words. We believe that every person has a story to tell and we are here to help you tell yours. We are here to help you become a better version of yourself. We are here to help you become ALIVE.
+          We provide you a platform where you can express yourself through words. We believe that every person has a story to tell and we are here to help you tell yours. We are here to help you become a better version of yourself. We are here to help you become alive.
         </p>
         <div className={styles.boxes}>
           <div className={styles.box}>
